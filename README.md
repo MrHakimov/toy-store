@@ -3,9 +3,9 @@ REST API with Flask, SQLAlchemy and Marshmallow
 
 ## Dependences
 
-The app requires ```Python 3.6``` and higher
+The app requires `Python 3.6` and higher
 
-All dependences are described at ```Pipfile```, ```Pipfile.lock``` and also at ```requirements.txt```.
+All dependences are described at `Pipfile`, `Pipfile.lock` and also at `requirements.txt`.
 
 ```
 Click==7.0
@@ -36,10 +36,10 @@ cd Yandex-Backend-Test
 ```
 
 Downloading denpendences:
-```zsh
+```
 pip install flask flask_sqlalchemy psycopg2-binary gunicorn marshmallow marshmallow-sqlalchemy numpy
 ```
 
 or
 
-`pip install -r requirements.txt` 
+```pip install -r requirements.txt```

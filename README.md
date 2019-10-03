@@ -42,4 +42,6 @@ pip install flask flask_sqlalchemy psycopg2-binary gunicorn marshmallow marshmal
 
 or
 
-```pip install -r requirements.txt```
+```
+pip install -r requirements.txt
+```

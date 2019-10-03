@@ -31,8 +31,8 @@ Werkzeug==0.15.5
 Run this commands at your terminal
 ```
 sudo apt-get install python3 python3-pip postgresql postgresql-contrib libpq-dev redis-server
-cd /var && git clone https://github.com/kholmatov/Yandex-Backend-Test.git
-cd Yandex-Backend-Test
+cd /var && git clone https://github.com/MrHakimov/toy-store.git
+cd toy-store
 ```
 
 Downloading denpendences:

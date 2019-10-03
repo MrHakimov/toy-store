@@ -36,7 +36,7 @@ cd Yandex-Backend-Test
 ```
 
 Downloading denpendences:
-```bash
+```sh
 pip install flask flask_sqlalchemy psycopg2-binary gunicorn marshmallow marshmallow-sqlalchemy numpy
 ```
 
